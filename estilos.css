@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(174, 206, 255);}
+
+H4{
+
+    color: rgb(132, 0, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+}
+
+h1{
+    color: darkblue;
+    text-align: center;
+}
+
+h2{
+    color: green;
+
+}
+
+div{
+border-color: rgb(147, 53, 147);
+border: 10x solid rgb(59, 18, 59);
+width: 80%;
+border: 15px solid rgb(121, 71, 121);
+padding: 50px;
+margin-left: 5%;
+margin-right: 5%;
+margin-top: 20px;
+}
+img{
+
+    width: 50%;
+}
